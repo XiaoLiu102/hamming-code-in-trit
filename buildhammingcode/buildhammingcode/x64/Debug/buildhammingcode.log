@@ -1,0 +1,14 @@
+﻿  源.cpp
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(29,26): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(32,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(62,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(66,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(74,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(85,33): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(114,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(118,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(130,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(134,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(146,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\buildhammingcode\buildhammingcode\源.cpp(158,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  buildhammingcode.vcxproj -> D:\Desktop\buildhammingcode\x64\Debug\buildhammingcode.exe
